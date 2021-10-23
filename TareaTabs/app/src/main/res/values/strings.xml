@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TareaTabs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="link1">
+        <a href="https://www.youtube.com/watch?v=zg9VnmANaCQ">Whatever - Ozelot</a>
+    </string>
+    <string name="link2">
+        <a href="https://www.youtube.com/watch?v=v_kh1ZXEZhw"> EHDMC IV - Ozelot</a>
+    </string>
+    <string name="link3">
+        <a href="https://youtu.be/ir-PKoNZ-Ms">Dimensiones y Cuerdas IV - Ozelot</a>
+    </string>
+    <string name="link4">
+        <a href="https://www.youtube.com/watch?v=NdDdnH8b2Go">Test de Personalidad - Ozelot</a>
+    </string>
+
+</resources>

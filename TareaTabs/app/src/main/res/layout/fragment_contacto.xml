@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Controlador.Contacto">
+
+    <!-- TODO: Update blank fragment layout -->
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical">
+
+      <ImageView
+          android:id="@+id/imageView"
+          android:layout_width="match_parent"
+          android:layout_height="277dp"
+          android:contentDescription="Imagen de mi mismo"
+          android:src="@drawable/me"
+          app:srcCompat="@drawable/me"
+          tools:srcCompat="@drawable/me" />
+
+      <TextView
+          android:id="@+id/textView2"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:fontFamily="sans-serif-condensed"
+          android:text="Nombre: Darlin Daniel Santana Valdez"
+          android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+          android:textSize="24sp" />
+
+      <TextView
+          android:id="@+id/textView3"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:fontFamily="sans-serif-condensed"
+          android:text="Matricula: 20175032"
+          android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+          android:textSize="24sp" />
+  </LinearLayout>
+
+</FrameLayout>
